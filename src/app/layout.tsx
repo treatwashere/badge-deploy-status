@@ -7,8 +7,8 @@ export const metadata: Metadata = {
   description: "Generate a deployment badge for your project's README",
   applicationName: "Deploy Badge",
   authors: {
-    name: 'Sujit Kumar',
-    url: 'https://therealsuji.tk'
+    name: 'treat',
+    url: 'https://github.com/treatwashere'
   },
   openGraph: {
     title: "Deploy Badge",
@@ -25,8 +25,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const footerLinks: {[x: string]: string} = {
-    'GitHub': 'https://github.com/therealsujitk/badge-deploy-status',
-    'About Me': 'https://therealsuji.tk',
+    'GitHub': 'https://github.com/treatwashere/badge-deploy-status',
+    'About Me': 'https://github.com/treatwashere',
     'Donate': 'https://therealsuji.tk/donate',
   };
   
