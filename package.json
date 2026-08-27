@@ -1,5 +1,5 @@
 {
-  "name": "deploy-badge",
+  "name": "badge-deploy-status",
   "version": "0.1.0",
   "private": true,
   "scripts": {
