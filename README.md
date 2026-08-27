@@ -1,25 +1,25 @@
 # Deploy Badge
 
-![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Vercel Badge](https://badge-deploy-status.vercel.app/vercel/badge-deploy-status) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Generate a deployment badge for your project's README.
 
 ## Usage
 
-It's recommended to use the [badge generator](https://deploy-badge.vercel.app) to quickly generate a badge for your application. Here's how you can create a deployment badge for any URL.
+It's recommended to use the [badge generator](https://badge-deploy-status.vercel.app) to quickly generate a badge for your application. Here's how you can create a deployment badge for any URL.
 
 To generate a deployment badge for your application [https://www.nextjs.org](https://www.nextjs.org), simply pass this URL as a parameter to this application.
 
 ### HTML
 
 ```html
-<img src="https://deploy-badge.vercel.app/?url=http://www.nextjs.org/&name=website" alt="Website Deploy"></img>
+<img src="https://badge-deploy-status.vercel.app/?url=http://www.nextjs.org/&name=website" alt="Website Deploy"></img>
 ```
 
 ### Markdown
 
 ```md
-![Website Deploy](https://deploy-badge.vercel.app/?url=http://www.nextjs.org/&name=website)
+![Website Deploy](https://badge-deploy-status.vercel.app/?url=http://www.nextjs.org/&name=website)
 ```
 
 ### Other Parameters
@@ -30,6 +30,6 @@ To generate a deployment badge for your application [https://www.nextjs.org](htt
 
 ## Links
 
-- [Generate a Badge](https://deploy-badge.vercel.app)
+- [Generate a Badge](https://badge-deploy-status.vercel.app)
 - [About Me](https://therealsuji.tk)
 - [Donate](https://therealsuji.tk/donate)

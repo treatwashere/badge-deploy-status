@@ -1,6 +1,6 @@
 export function getBaseUrl() {
   if (typeof window === 'undefined') {
-    return 'https://deploy-badge.vercel.app';
+    return 'https://badge-deploy-status.vercel.app';
   }
 
   return window.location.origin;

@@ -13,9 +13,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Deploy Badge",
     description: "Generate a deployment badge for your project's README",
-    images: "https://deploy-badge.vercel.app/logo.png",
+    images: "https://badge-deploy-status.vercel.app/logo.png",
     type: "website",
-    url: "https://deploy-badge.vercel.app"
+    url: "https://badge-deploy-status.vercel.app"
   }
 };
 
@@ -25,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const footerLinks: {[x: string]: string} = {
-    'GitHub': 'https://github.com/therealsujitk/deploy-badge',
+    'GitHub': 'https://github.com/therealsujitk/badge-deploy-status',
     'About Me': 'https://therealsuji.tk',
     'Donate': 'https://therealsuji.tk/donate',
   };
