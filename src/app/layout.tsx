@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     url: 'https://github.com/treatwashere'
   },
   openGraph: {
-    title: "Deploy Badge",
+    title: "Badge Deploy Status",
     description: "Generate a deployment badge for your project's README",
     images: "https://badge-deploy-status.vercel.app/logo.png",
     type: "website",
