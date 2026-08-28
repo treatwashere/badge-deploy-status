@@ -24,11 +24,6 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const footerLinks: {[x: string]: string} = {
-    'GitHub': 'https://github.com/treatwashere/badge-deploy-status',
-    'About Me': 'https://github.com/treatwashere',
-    'Donate': 'https://therealsuji.tk/donate',
-  };
   
   return (
     <html lang="en">
