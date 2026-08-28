@@ -25,6 +25,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   
+const footerLinks: {[x: string]: string} = {
+'GitHub': 'https://github.com.com/treatwashere/badge-deploy-status',
+'About Me': 'https://github.com/treatwashere',
+};
+
   return (
     <html lang="en">
       <head>
