@@ -28,6 +28,7 @@ export default function RootLayout({
 const footerLinks: {[x: string]: string} = {
 'GitHub': 'https://github.com.com/treatwashere/badge-deploy-status',
 'About Me': 'https://github.com/treatwashere',
+'Socials': 'https://coded-linktree.vercel.app/',
 };
 
   return (
