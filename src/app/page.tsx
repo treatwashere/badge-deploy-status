@@ -33,8 +33,8 @@ export default function Home() {
     <div>
       <header>
         <Typography level="h1" mb={1}>
-          <Typography marginRight={1.5}>🚀</Typography>
-          Deploy Badge
+          <Typography marginRight={1.5}>🪪🚀</Typography>
+          Badge Deploy Status
         </Typography>
       </header>
 
