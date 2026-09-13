@@ -1,4 +1,4 @@
-# Deploy Badge
+# [Deploy Badge](https://badge-deploy-status.vercel.app/)
 
 ![Vercel Badge](https://badge-deploy-status.vercel.app/vercel/badge-deploy-status) ![License](https://img.shields.io/badge/license-MIT-blue)
 
